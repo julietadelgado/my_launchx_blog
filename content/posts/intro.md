@@ -1,22 +1,22 @@
 ---
-title: "La cultura en el desarrollo de software"
+title: "La cultura de un desarrollad@r de software"
 date: 2022-04-05T22:20:21-06:00
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X, en donde conocerás sobre las características de un desarrollador de software'
+description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X, en donde conocerás sobre las características de un desarrollad@r de software'
 ---
 
-Ser un desarrollador de software es genial, y como todo gran poder, conlleva una gran responsabilidad, por ello la cultura de un profesional de software es muy importante.
+Ser un desarrollad@r de software es genial, y como todo gran poder, conlleva una gran responsabilidad, por ello la cultura de un profesional de software es muy importante.
 
 Habemos desarrolladores de todos colores y sabores, pero hay algunas características que considero muy valiosas en un desarrollador, éstas son las siguientes:
 
 **Respetuoso**
 
-Ya sea que se dirija con otro desarrollador, con un cliente, compañero de trabajo, o persona con o sin conocimientos de programación, el desarrollador debe ser respetuoso.
+Ya sea que se dirija con otro desarrollador, con un cliente, compañero de trabajo, o persona con o sin conocimientos de programación, el desarrollad@r debe ser respetuoso.
 
 ![Respetuoso](https://media4.giphy.com/media/frMqKyYKvrogCVL4uO/giphy.gif?cid=790b761120dba65d5ba2564060d4b7c4839d5ea4729e8d58&rid=giphy.gif&ct=g)
 
 **Responsable**
 
-En ocasiones, el desarrollador se encuentra a full de trabajo, pero sabe equilibrar su tiempo y entrega sus proyectos en tiempo y forma
+En ocasiones, el desarrollad@r se encuentra a full de trabajo, pero sabe equilibrar su tiempo y entrega sus proyectos en tiempo y forma
 
 ![Responsable](https://media0.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif?cid=ecf05e474kdykjnzzmjmyw8n2xhqja4yngzr7gd68vlt389p&rid=giphy.gif&ct=g)
 
@@ -28,7 +28,7 @@ Es importante la honestidad tanto con cliente como con los compañeros de trabaj
 
 **Capaz de solucionar problemas**
 
-Como en la vida, en el desarrollo también hay problemas, en sí, gracias a los problemas de la vida, surgen grandes ideas para ser solucionadas mediante tecnologías, por ello es importante que el desarrollador sea capaz de entender un problema y desarrollar una solución.
+Como en la vida, en el desarrollo también hay problemas, en sí, gracias a los problemas de la vida, surgen grandes ideas para ser solucionadas mediante tecnologías, por ello es importante que el desarrollad@r sea capaz de entender un problema y desarrollar una solución.
 
 ![Capaz de solucionar problemas](https://media0.giphy.com/media/UKkes2qN2T70s/giphy.gif?cid=ecf05e47dqbdm3a1pd9d5nejfp8xqof97ru7x1vtog8pu8xa&rid=giphy.gif&ct=g)
 
@@ -40,7 +40,7 @@ En el día a día de un desarrollador, no solamente tratamos con otros programad
 
 **Compartir sus conocimientos**
 
-Por último, pero no por ello menos importante, el desarrollador de software comparte sus conocimientos con la finalidad de hacer un mundo mejor y que más personas puedan poner su granito de arena en este mundo tecnológico.
+Por último, pero no por ello menos importante, el desarrollad@r de software comparte sus conocimientos con la finalidad de hacer un mundo mejor y que más personas puedan poner su granito de arena en este mundo tecnológico.
 
 ![Compartir sus conocimientos](https://media0.giphy.com/media/xUA7aPEybD1cLJl6cU/giphy.gif?cid=790b76119d0469163cb13f7909a2d8e1dc3606b40a73ff4b&rid=giphy.gif&ct=g)
 
