@@ -6,11 +6,11 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 Ser un desarrollad@r de software es genial, y como todo gran poder, conlleva una gran responsabilidad, por ello la cultura de un profesional de software es muy importante.
 
-Habemos desarrolladores de todos colores y sabores, pero hay algunas características que considero muy valiosas en un desarrollador, éstas son las siguientes:
+Habemos desarrolladores de todos colores y sabores, pero hay algunas características que considero muy valiosas en un desarrollad@r, éstas son las siguientes:
 
 **Respetuoso**
 
-Ya sea que se dirija con otro desarrollador, con un cliente, compañero de trabajo, o persona con o sin conocimientos de programación, el desarrollad@r debe ser respetuoso.
+Ya sea que se dirija con otro desarrollad@r, con un cliente, compañero de trabajo, o persona con o sin conocimientos de programación, el desarrollad@r debe ser respetuoso.
 
 ![Respetuoso](https://media4.giphy.com/media/frMqKyYKvrogCVL4uO/giphy.gif?cid=790b761120dba65d5ba2564060d4b7c4839d5ea4729e8d58&rid=giphy.gif&ct=g)
 
@@ -34,7 +34,7 @@ Como en la vida, en el desarrollo también hay problemas, en sí, gracias a los 
 
 **Capaz de comunicarse con las demás personas**
 
-En el día a día de un desarrollador, no solamente tratamos con otros programadores, en su mayoría tratamos con las personas de los diferentes departamentos involucrados en el proyecto, diseñadores, project manager e incluso con el cliente, muchos de nosotros estamos acostumbrados a hablar de una forma técnica pero debemos buscar la manera de transmitir el mensaje de una forma que sea comprensible para alguien que no maneja el lenguaje técnico o que no tiene conocimientos sobre programación, de esta forma, la comunicación fluirá de una mejor manera. De mi parte, no les voy a mentir, es algo que día a día sigo tratando de mejorar.
+En el día a día de un desarrollad@r, no solamente tratamos con otros programadores, en su mayoría tratamos con las personas de los diferentes departamentos involucrados en el proyecto, diseñadores, project manager e incluso con el cliente, muchos de nosotros estamos acostumbrados a hablar de una forma técnica pero debemos buscar la manera de transmitir el mensaje de una forma que sea comprensible para alguien que no maneja el lenguaje técnico o que no tiene conocimientos sobre programación, de esta forma, la comunicación fluirá de una mejor manera. De mi parte, no les voy a mentir, es algo que día a día sigo tratando de mejorar.
 
 ![Capaz de comunicarse con las demás personas](https://media0.giphy.com/media/UfEfvvcxW5F6g/giphy.gif?cid=ecf05e476j5mnjrenphaecgbwcjit2w67qfv7848irygb1k5&rid=giphy.gif&ct=g)
 
