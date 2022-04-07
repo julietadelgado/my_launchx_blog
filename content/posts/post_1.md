@@ -1,10 +1,10 @@
 ---
 title: "Mi ruta de aprendizaje en LaunchX"
 date: 2022-04-06
-description: 'En este artículo, te platico sobre mi experiencia hasta el momento durante este vuelo en LaunchX'
+description: 'En este artículo, te platico sobre mi experiencia hasta el momento durante este vuelo en LaunchX por Innovacción Virtual'
 ---
 
-Todo inició un día de Febrero cuando mi pareja me pasó el link del curso de LaunchX, ingresé al link, me registré y asistí a la sesión de bienvenida, en esta sesión nos proporcionaron un link de registro al programa completo, al principio creí que era un curso falso porque el dominio principal mostraba errores, pero me animé a registrarme y estoy muy contenta de haberme animado porque esta experiencia ha sido única.
+Todo inició un día de Febrero cuando mi pareja me pasó el link del curso de LaunchX por Innovacción Virtual, ingresé al link, me registré y asistí a la sesión de bienvenida, en esta sesión nos proporcionaron un link de registro al programa completo, al principio creí que era un curso falso porque el dominio principal mostraba errores, pero me animé a registrarme y estoy muy contenta de haberme animado porque esta experiencia ha sido única.
 
 Al momento de escribir este artículo, ya son casi 2 meses desde que inició este viaje, iniciando su primer misión, Onboarding, con la mission commander Fernanda Ochoa, con ella aprendí y repasé la programación básica mediante el uso del lenguaje de programación Python, vimos de todo un poco, tipos de variables, condicionales, ciclos y diccionarios, este último tema fue nuevo para mi.
 
@@ -12,7 +12,7 @@ Después de concluir la primer misión, llegó el momento de pasar a la siguient
 
 Ahora, concluida la misión de Frontend, llegó el momento de la gran misión esperada, Backend, en donde se nos dió la oportunidad de elegir entre 2 frameworks Node.js y Spring, me decidí por Node.js, ¿por qué?, porque tenía tiempo escuchando sobre este framework, investigué que en los últimos años ha tenido un gran crecimiento, me gusta javascript y tenía ganas de aprenderlo, así que a partir de este momento inicia esta gran misión de la mano del mission commander Carlo Gilmar, de quien al momento me ha encantado el acompañamiento y espero aprender muchas cosas.
 
-Gracias a todo LaunchX por esta gran oportunidad y a ti por leerme, nos vemos en el próximo artículo.
+Gracias a todo Innovaccion Virtual por esta gran oportunidad y a ti por leerme, nos vemos en el próximo artículo.
 
 Mucha buena vibra para todos :D.
 
