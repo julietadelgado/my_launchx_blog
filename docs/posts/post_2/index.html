@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Eliminar carpeta node_modules o cualquier otra que hallamos agregado a git y queramos removerla - Bitácora de Viaje de Julieta Delgado</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="https://julietadelgado.github.io/my_launchx_blog/favicon.png">
+
+  
+  
+  <link rel="stylesheet" href="../../css/style.min.4f4767d518839223786999cdb69fc7a63791220ecccd236bc732a5f998aaee2d.css">
+  
+
+  
+    <meta name="description" content="Ha iniciado más a fondo el curso de Node.js y con el, algunos errores sobre la marcha, sí, subí a git la capeta node_modules. Si como a mi te ha pasado, en este artículo te platico cómo hice para borrar la carpeta de git."/>
+    <meta property="og:title" content="Eliminar carpeta node_modules o cualquier otra que hallamos agregado a git y queramos removerla"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://julietadelgado.github.io/my_launchx_blog/posts/post_2/"/>
+    
+    <meta property="og:description" content="Ha iniciado más a fondo el curso de Node.js y con el, algunos errores sobre la marcha, sí, subí a git la capeta node_modules. Si como a mi te ha pasado, en este artículo te platico cómo hice para borrar la carpeta de git."/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@juls__dem"/>
+    <meta name="twitter:creator" content="@juls__dem"/>
+  
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet"> 
+</head>
+
+
+
+
+<body class='page frame page-blog-single'>
+  <div id="wrapper" class="wrapper">
+    <div class='header'>
+  <a class="header-logo" href="https://julietadelgado.github.io/my_launchx_blog/">Bitácora de Viaje de Julieta Delgado</a>
+  <div class="menu-main">
+    <ul>
+        
+        
+            <li class="menu-item-about me">
+                <a href="../../pages/about/">About Me</a>
+            </li>
+        
+            <li class="menu-item-posts">
+                <a href="../../posts/">Posts</a>
+            </li>
+        
+    </ul>
+  </div>
+</div>
+    
+  <div class="blog">
+    
+    <div class="intro">
+      <h1>Eliminar carpeta node_modules o cualquier otra que hallamos agregado a git y queramos removerla<span class="dot">.</span></h1>
+      
+    </div>
+    <div class="content">
+      <p>Hola lector, gracias por estar aquí nuevamente.</p>
+<p>Hace unas semanas iniciamos en el curso de LaunchX a conocer más sobre Node.js, iniciamos con lo básico que es la inicialización del proyecto mediante el comando npm init, después instalamos Jest, un framework para pruebas. Cuando por primera vez instalamos un paquete, estó creará la carpeta node_modules dentro de nuestro proyecto, la cual contiene, todos los paquetes, ficheros y dependencias necesarios para el proyecto. Si versionas tus proyectos, y no tienes cuidado como yo, esta carpeta se subirá a tu repositorio y tardará un buen rato, pero no te preocupes, si ya la subiste y quieres eliminarla a continuación te cuento cómo eliminarla.</p>
+<p>Para ello, sólo debes ejecutar los siguientes comandos:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">1. git rm --cached node_modules
+</code></pre></div><p>Lo que hace este comando es pedirle a git que remueva los archivos indicados sólamente del repositorio de git pero no de nuestro sistema o repositorio local. Si el directorio o archivo que necesitas remover es otro, en lugar de poner node_modules, indica la ruta de tu directorio o archivo.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">2. Crear archivo .gitignore y agregar la carpeta node_modules de la siguiente manera: **/node_modules
+</code></pre></div><p>El archivo .gitignore es un archivo de texto que le dice a Git qué archivos o carpetas ignorar en un proyecto</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">3. git commit -m &#39;Added node_modules to .gitignore file. Also removed node_modules from git tracking and repository.&#39;
+</code></pre></div><p>Agregar commit de los cambios que hicimos.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">4. git push origin master&#39;
+</code></pre></div><p>Si el repositorio local está conectado a un repositorio remoto, subimos los cambios mediante el comando push.</p>
+<p>Si buscas en Internet, encontrarás muchos artículos sobre como hacerlo, mi recomendación es tener cuidado con los comandos que ejecutas, yo sin querer, ejecuté el siguiente:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">git rm -r --cached .
+</code></pre></div><p>Como verás, al final en lugar de indicar una carpeta o archivo específico, estoy indicando con un punto que remueva todos los archivos, al hacerlo entré en pánico al ver que estaba agregando todos los archivos de mi proyecto para ser removidos, pero no hay nada que no tenga solución, si sin querer te pasa como a mi, solamente debes ejecutar el siguiente comando:</p>
+<p>git reset .</p>
+<p>Lo que hará este último comando es deshacer el cambio, una vez que los cambios se deshicieron, ejecuta los puntos del 1 al 4.</p>
+<p>Ahora ya puedes remover archivos que requieras para que no estén dentro de un repositorio.</p>
+<p>Gracias por leerme y mucha buena vibra para todos :D.</p>
+<p><img src="https://media0.giphy.com/media/qVMWAFTTfINq/giphy.gif?cid=790b7611b66a60e81d5293d40006cd33ce01c37aa8e76de4&amp;rid=giphy.gif&amp;ct=g" alt="Buenas vibras"></p>
+
+    </div>
+  </div>
+
+    <div class="footer">
+  
+  <div class="footer-social">
+    
+      <span class="social-icon social-icon-twitter">
+        <a href="https://twitter.com/juls__dem" title="twitter" target="_blank" rel="noopener">
+          <img src="../../images/social/twitter.svg" width="24" height="24" alt="twitter"/>
+        </a>
+      </span>
+    
+      <span class="social-icon social-icon-github">
+        <a href="https://github.com/julietadelgado" title="github" target="_blank" rel="noopener">
+          <img src="../../images/social/github.svg" width="24" height="24" alt="github"/>
+        </a>
+      </span>
+    
+  </div>
+  
+</div>
+  </div>
+
+  
+
+  
+
+  
+  <script type="text/javascript" src="../../js/bundle.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js"></script>
+  
+
+  
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+</html>

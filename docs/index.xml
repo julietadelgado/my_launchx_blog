@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Julieta Delgado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Apr 2022 22:20:21 -0600</lastBuildDate><atom:link href="https://julietadelgado.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://julietadelgado.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eliminar carpeta node_modules o cualquier otra que hallamos agregado a git y queramos removerla</title>
+      <link>https://julietadelgado.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://julietadelgado.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Hola lector, gracias por estar aquí nuevamente.
+Hace unas semanas iniciamos en el curso de LaunchX a conocer más sobre Node.js, iniciamos con lo básico que es la inicialización del proyecto mediante el comando npm init, después instalamos Jest, un framework para pruebas. Cuando por primera vez instalamos un paquete, estó creará la carpeta node_modules dentro de nuestro proyecto, la cual contiene, todos los paquetes, ficheros y dependencias necesarios para el proyecto.</description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrollad@r de software</title>
       <link>https://julietadelgado.github.io/my_launchx_blog/posts/intro/</link>
